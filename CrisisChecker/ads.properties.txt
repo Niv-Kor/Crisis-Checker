@@ -1,0 +1,8 @@
+######################## Configuration file start ########################
+#Fri Apr 19 17:32:36 IDT 2019
+api.adwords.refreshToken=1/1d2E5pZSCcJrdaXOpCnJEht8EJnkEbU704A5lobF1653ivOlkmeqKrPXPdn4Ka02
+api.adwords.clientId=77662589215-3a5nhi2mh4c89m0hg27b3u79f2fr2utr.apps.googleusercontent.com
+api.adwords.developerToken=x_7lBZusT3AQIj5wvxio_w
+api.adwords.clientSecret=hTBD4udGT6Gap1uYwuBSKIhA
+api.adwords.clientCustomerId=723-793-4112
+######################## Configuration file end ##########################
